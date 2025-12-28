@@ -1,94 +1,47 @@
-/*Estilos generales*/
-
 body {
   font-family: Arial, sans-serif;
-  background-color: #f4f6f8;
+  background-color: #f2f2f2;
   margin: 0;
-  padding: 0;
-  line-height: 1.6;
 }
 
-/*Cabecera*/
-
 header {
-  background-color: #2c3e50;
+  background-color: #003366;
   color: white;
-  padding: 35px 20px;
+  padding: 20px;
   text-align: center;
 }
 
-/*Navegación*/
-
 nav {
-  background-color: #34495e;
+  background-color: #00509e;
 }
 
 nav ul {
   list-style: none;
   margin: 0;
-  padding: 12px;
+  padding: 10px;
   text-align: center;
 }
 
 nav ul li {
   display: inline-block;
-  margin: 0 15px;
+  margin: 0 10px;
 }
 
 nav ul li a {
   color: white;
   text-decoration: none;
-  font-weight: bold;
 }
-
-/*Contenido principal*/
 
 main {
   background-color: white;
-  max-width: 900px;
-  margin: 30px auto;
-  padding: 30px;
+  width: 80%;
+  margin: 20px auto;
+  padding: 20px;
 }
-
-/*Secciones*/
-
-section {
-  margin-bottom: 35px;
-}
-
-h2 {
-  color: #2c3e50;
-  border-bottom: 2px solid #e0e0e0;
-  padding-bottom: 5px;
-}
-
-/*Listas*/
-
-ul {
-  padding-left: 20px;
-}
-
-/*Formularios*/
-
-input, textarea {
-  width: 100%;
-  max-width: 420px;
-  padding: 8px;
-  border: 1px solid #ccc;
-}
-
-/* Imágenes */
-
-img {
-  border: 2px solid #ddd;
-  margin: 15px 0;
-}
-
-/*Pie de página*/
 
 footer {
-  background-color: #2c3e50;
+  background-color: #003366;
   color: white;
   text-align: center;
-  padding: 15px;
+  padding: 10px;
 }
