@@ -35,5 +35,4 @@ importancia de una buena organización del código y del control de versiones
 mediante Git y GitHub.
 
 Además, el proyecto ha servido como una introducción práctica al diseño de
-sitios web, destacando la relevancia de la planificación, la claridad en la
-estructura y el cumplimiento de los requisitos establecidos.
+sitios web.
